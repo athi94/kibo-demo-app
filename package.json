@@ -1,0 +1,25 @@
+{
+  "name": "kibo-demo-app",
+  "version": "0.0.1",
+  "description": "Demo ecosystem to demonstrate Kibo functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athi94/kibo-demo-app.git"
+  },
+  "keywords": [
+    "kibo"
+  ],
+  "author": "Anmol Thind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athi94/kibo-demo-app/issues"
+  },
+  "homepage": "https://github.com/athi94/kibo-demo-app#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
